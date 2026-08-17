@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.DS_Store
+.claude/
+
+# Large data / artifacts
+*.csv
+*.parquet
