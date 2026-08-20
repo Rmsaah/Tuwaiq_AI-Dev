@@ -1,0 +1,16 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras-tuner
+optuna
+lazypredict
+xgboost
+lightgbm
+kagglehub
+requests
+jupyter
